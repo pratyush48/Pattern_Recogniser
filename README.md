@@ -1,2 +1,2 @@
 # Zero_One_Detector
-A very basic fsm based zero or one pattern recognizer.
+A  FSM(finite state machine) based pattern recognizer.
